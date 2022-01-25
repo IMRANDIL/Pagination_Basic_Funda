@@ -37,6 +37,10 @@
 
 a{
     color: blue;
+    margin: 5px;
+    background-color: black;
+    padding: 15px;
+    border-radius: 50%;
 }
 
 
@@ -45,7 +49,9 @@ a{
 }
 
 .break{
-    margin: 50px 0;
+    display: flex;
+    justify-content: center;
+    margin: 10px auto;
 }
 
 a:link,a:visited,a:hover,a:active{
