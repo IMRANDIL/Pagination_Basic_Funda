@@ -52,6 +52,7 @@ a{
     display: flex;
     justify-content: center;
     margin: 10px auto;
+    flex-wrap: wrap;
 }
 
 a:link,a:visited,a:hover,a:active{
